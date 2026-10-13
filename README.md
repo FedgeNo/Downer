@@ -2,6 +2,8 @@
 
 A desktop Markdown editor with a live preview for Linux. Write Markdown on the left and see the rendered document on the right, with local KaTeX math rendering, tables, and dark mode.
 
+**Local links work properly:** click a link to another Markdown file and Downer loads it into the editor, adds it to Open Files, and renders the preview from that source. The editor and preview stay synced as you navigate. Relative paths and heading anchors are supported; web links open in your browser.
+
 Built with Python, GTK 3, GtkSourceView, and WebKitGTK.
 
 ## Features
