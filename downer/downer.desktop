@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Downer
+Comment=Markdown editor and viewer
+Exec=downer %F
+Icon=text-x-generic
+Terminal=false
+StartupNotify=true
+Categories=Utility;TextEditor;
+MimeType=text/markdown;text/x-markdown;application/x-markdown;

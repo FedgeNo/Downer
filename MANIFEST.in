@@ -1,0 +1,2 @@
+include downer/install.sh
+include downer/downer.desktop
